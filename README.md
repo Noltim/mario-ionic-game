@@ -22,7 +22,7 @@ Para executar este jogo localmente, siga estas etapas:
 
 1. Clone este repositório para o seu computador:
 
-git clone https://github.com/seu-usuario/mario-ionic-game.git
+git clone https://github.com/Noltim/mario-ionic-game
 
 2. Navegue até o diretório do projeto:
 
